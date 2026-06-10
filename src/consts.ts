@@ -12,5 +12,5 @@ export const GITHUB_CONFIG = {
 	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || 'donough-blog',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'master',
 	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '4006717',
-	ENCRYPT_KEY: process.env.NEXT_PUBLIC_GITHUB_ENCRYPT_KEY || 'wudishiduomejimo',
+	ENCRYPT_KEY: process.env.NEXT_PUBLIC_GITHUB_ENCRYPT_KEY || 'donough1234567890',
 } as const
