@@ -12,6 +12,9 @@ const nextConfig: NextConfig = {
 	experimental: {
 		scrollRestoration: false
 	},
+	images: {
+		unoptimized: true,   // Cloudflare 不支持 next/image 的默认 loader ✅ 加上这个
+	},
 	turbopack: {
 		rules: {
 			'*.svg': {

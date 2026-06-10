@@ -1,0 +1,12 @@
+// wrangler.jsonc
+{
+  "name": "donough-blog",           // Cloudflare Workers 项目名
+  "compatibility_date": "2026-06-10",
+  "compatibility_flags": ["nodejs_compat"],
+  "pages_build_output_dir": ".open-next",
+
+  // 如果用到环境变量
+  "vars": {
+    "NEXT_PUBLIC_BASE_URL": "https://donough-blog.pages.dev"
+  }
+}
