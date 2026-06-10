@@ -1,0 +1,47 @@
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: latest
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --shamefully-hoist
+
+      - name: Build
+        run: pnpm install --shamefully-hoist && pnpm run build:cf
+        env:
+          NEXT_PUBLIC_BASE_URL: https://donough-blog.pages.dev
+          BLOG_SLUG_KEY: Donough
+          NEXT_PUBLIC_GITHUB_APP_ID: 4006717
+          NEXT_PUBLIC_GITHUB_BRANCH: master
+          NEXT_PUBLIC_GITHUB_ENCRYPT_KEY: donough1234567890
+          NEXT_PUBLIC_GITHUB_OWNER: donough-chen
+          NEXT_PUBLIC_GITHUB_REPO: donough-blog
+          NODE_VERSION: 22
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy .open-next --project-name=donough-blog --branch=master
