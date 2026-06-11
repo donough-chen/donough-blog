@@ -6,7 +6,7 @@
 		"nickName": "Donough"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
+		"colorBrand": "#645243",
 		"colorPrimary": "#5B423F",
 		"colorSecondary": "#8b7667",
 		"colorBrandSecondary": "#eec25e",
@@ -16,9 +16,12 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#AC7A2D",
+		"#DBF5F9",
+		"#B45FAB",
+		"#C8CB64",
+		"#4B0037",
+		"#851874"
 	],
 	"artImages": [
 		{
@@ -32,16 +35,32 @@
 		{
 			"id": "1c7b726fe720679b",
 			"url": "/images/art/1c7b726fe720679b.jpg"
+		},
+		{
+			"id": "url-1781144863877",
+			"url": "https://cdn.magicalapk.com/square/06782a37-6b03-478b-b9ac-0e155cfd35a4.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "url-1781144863877",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1781144853741",
+			"url": "https://cdn.magicalapk.com/square/dd2b4145-b8a5-4c70-ba96-be34eedc0011.jpg"
+		},
+		{
+			"id": "url-1781144930435",
+			"url": "https://cdn.magicalapk.com/square/df8684d6-9d77-4548-b05b-ac0744263445.jpg"
+		},
+		{
+			"id": "url-1781144952449",
+			"url": "https://cdn.magicalapk.com/square/06782a37-6b03-478b-b9ac-0e155cfd35a4.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1781144853741",
 	"socialButtons": [
 		{
 			"id": "github",
@@ -65,13 +84,13 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"clockShowSeconds": true,
+	"summaryInContent": true,
 	"isCachePem": false,
-	"hideEditButton": false,
+	"hideEditButton": true,
 	"enableCategories": true,
 	"currentHatIndex": 3,
-	"hatFlipped": false,
+	"hatFlipped": true,
 	"enableChristmas": false,
 	"beian": {
 		"text": "",
