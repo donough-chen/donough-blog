@@ -6,22 +6,21 @@
 		"nickName": "Donough"
 	},
 	"theme": {
-		"colorBrand": "#645243",
-		"colorPrimary": "#5B423F",
-		"colorSecondary": "#8b7667",
-		"colorBrandSecondary": "#eec25e",
-		"colorBg": "#d4e8f3",
+		"colorBrand": "#EEA785",
+		"colorPrimary": "#334f52",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#1fe7b1",
+		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff99",
+		"colorCard": "#ffffff66",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#AC7A2D",
-		"#DBF5F9",
-		"#B45FAB",
-		"#C8CB64",
-		"#4B0037",
-		"#851874"
+		"#138AFE",
+		"#B83E71",
+		"#45BE3B",
+		"#41775D",
+		"#E76C33"
 	],
 	"artImages": [
 		{
