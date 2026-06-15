@@ -5,7 +5,7 @@ import { toast } from 'sonner'
 import { Plus } from 'lucide-react'
 import { DialogModal } from '@/components/dialog-modal'
 
-export type ImageItem = { type: 'url'; url: string } | { type: 'file'; file: File; previewUrl: string; hash?: string }
+export type ImageItem = { type: 'url'; url: string, previewUrl?: string } | { type: 'file'; file: File; previewUrl: string; hash?: string }
 
 interface ImageUploadDialogProps {
 	currentImage?: string
