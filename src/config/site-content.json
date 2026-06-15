@@ -6,13 +6,13 @@
 		"nickName": "Donough"
 	},
 	"theme": {
-		"colorBrand": "#EEA785",
-		"colorPrimary": "#334f52",
-		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#1fe7b1",
+		"colorBrand": "#b9caf4",
+		"colorPrimary": "#161617",
+		"colorSecondary": "#32505e",
+		"colorBrandSecondary": "#1fd5e7bd",
 		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff66",
+		"colorCard": "#e8ebf297",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
