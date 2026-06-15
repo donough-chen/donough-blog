@@ -168,8 +168,8 @@ export function BackgroundImagesSection({ formData, setFormData, backgroundImage
 				<input
 					type='url'
 					value={backgroundUrlInput}
-					onChange={e => setBackgroundUrlInput(e.target.value)}
-					onKeyDown={e => {
+					onChange={(e: React.ChangeEvent<HTMLInputElement>) => setBackgroundUrlInput(e.target.value)}
+					onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => {
 						if (e.key === 'Enter') {
 							e.preventDefault()
 							handleBackgroundUrlSubmit()

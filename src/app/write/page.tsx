@@ -2,7 +2,7 @@
 
 import { useWriteStore } from './stores/write-store'
 import { usePreviewStore } from './stores/preview-store'
-import { WriteEditor } from './components/editor'
+import { WriteEditor } from './components/editor-plus'
 import { WriteSidebar } from './components/sidebar'
 import { WriteActions } from './components/actions'
 import { WritePreview } from './components/preview'
