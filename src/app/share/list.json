@@ -262,5 +262,62 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "二维码生成器",
+		"logo": "https://cn.online-qrcode-generator.com/QR-Code/qr-code-generator-cn.png",
+		"url": "https://cn.online-qrcode-generator.com/",
+		"description": "在线二维码生成器条形码生成器是全国最好二维码条形码在线生成器网站。在线二维码条形码生成器是一个免费, 在线, 实时生成二维码条形码。它是功能强大的免费二维码和条形码解决方案,现在开始创建你的二维码条形码吧!二维码,二维码生成器, 在线二维码生成器, 免费二维码生成器, 在线二维码, 二维码创建器, 二维码在线服务网站, 二维码解决方案, 搞定二维码, 二维码,二维码营销,二维码图片,二维码制作,二维码名片,QR code,二维码是什么,二维码生成,二维码论坛,二维条码,微信二维码, 条形码, 条形码生成器, 在线条形码生成器, 免费条形码生成器, 免费在线条形码生成器。",
+		"tags": [
+			"工具",
+			"在线",
+			"免费"
+		],
+		"stars": 5
+	},
+	{
+		"name": "JSON在线解析及格式化验证 ",
+		"logo": "https://static.json.cn/r/img/favicon/favicon.ico",
+		"url": "https://www.json.cn",
+		"description": "Json中文网致力于在中国推广Json,并提供相关的Json解析、验证、格式化、压缩、编辑器以及Json与XML相互转换等服务；json,json在线解析,json格式化,json格式验证,json转xml,xml转json,json压缩,json转义,js混淆加密,JSON转实体,json在线,JSON校验,json tools,主机评测,主机测评,新手教程,技术博客,电子工具。",
+		"tags": [
+			"工具",
+			"在线"
+		],
+		"stars": 4
+	},
+	{
+		"name": "URL转码",
+		"logo": "https://cdn.sojson.com/ui/images/online.logo.png",
+		"url": "https://www.sojson.com/encodeurl.html",
+		"description": "本工具是在线URL转码，使用encodeURI函数对 URL 转码，可以解决中文Get 提交乱码问题，也可以用encodeURIComponent函数方式转码。URL 转码,encodeURI,encodeURI函数,encodeURIComponent,encodeURIComponent函数",
+		"tags": [
+			"工具",
+			"在线"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Free Image Hosting",
+		"logo": "https://ooxx.ooo/favicon.ico",
+		"url": "https://ooxx.ooo/upload",
+		"description": "免费上传图片到CDN，获取图床链接。",
+		"tags": [
+			"图片",
+			"工具",
+			"在线"
+		],
+		"stars": 5
+	},
+	{
+		"name": "AI工具集",
+		"logo": "https://ai-bot.cn/wp-content/uploads/2023/03/ai-bot-square-logo.png",
+		"url": "https://ai-bot.cn/",
+		"description": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全。AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大全，以及AI学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！",
+		"tags": [
+			"工具",
+			"在线"
+		],
+		"stars": 4
 	}
 ]
