@@ -1,5 +1,21 @@
 [
   {
+    "slug": "20260724-ai-weekly-news",
+    "title": "AI领域一周重要新闻速览（2026.07.17-07.24）",
+    "tags": [
+      "AI",
+      "新闻",
+      "周报",
+      "大模型",
+      "智能体"
+    ],
+    "date": "2026-07-24T17:48",
+    "summary": "汇总本周AI领域20条重要新闻，涵盖OpenAI安全事件、WAIC 2026、大模型发布、AI芯片、智能体等行业热点",
+    "cover": "https://cdn.magicalapk.com/square/10e163c4-2c6b-43c1-a49b-760abf97a113.jpg",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "20260615-vibe-coding",
     "title": "随笔——记录vibe coding过程的体验和思考",
     "tags": [
