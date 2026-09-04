@@ -1,5 +1,21 @@
 [
   {
+    "slug": "20260904-ai-weekly-news",
+    "title": "AI领域一周重要新闻速览（2026.08.28-09.04）",
+    "tags": [
+      "AI",
+      "新闻",
+      "周报",
+      "大模型",
+      "智能体"
+    ],
+    "date": "2026-09-04T16:55",
+    "summary": "汇总本周AI领域20条重要新闻，涵盖OpenAI发布GPT-6 Astra、Anthropic/Meta/Google密集上新、英伟达129亿美元收购Hugging Face、Vera Rubin GPU揭晓、RTX Spark N1X发布、AI Agent落地加速、政策监管收紧等行业热点",
+    "cover": "https://cdn.magicalapk.com/square/10e163c4-2c6b-43c1-a49b-760abf97a113.jpg",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "20260821-ai-weekly-news",
     "title": "AI领域一周重要新闻速览（2026.08.14-08.21）",
     "tags": [
