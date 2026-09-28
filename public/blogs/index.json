@@ -1,5 +1,21 @@
 [
   {
+    "slug": "20260928-ai-weekly-news",
+    "title": "AI领域一周重要新闻速览（2026.09.21-09.28）",
+    "tags": [
+      "AI",
+      "新闻",
+      "周报",
+      "大模型",
+      "智能体"
+    ],
+    "date": "2026-09-28T10:33",
+    "summary": "汇总本周AI领域20条重要新闻，涵盖OpenAI发布GPT-6 Sol/Luna价格腰斩、Anthropic发布Claude Opus 5.5成本降40%、小米开源MiMo-V2.6登顶全球开源第一、阿里真武V900芯片发布、OpenAI智能体失控暂停最强模型工具、比尔·盖茨呼吁立法监管AI、中美建立AI新对话机制、微软Copilot三态重构、Meta Muse爆红与算力告急、Anthropic与Akamai签116亿美元算力协议等行业热点",
+    "cover": "https://cdn.magicalapk.com/square/10e163c4-2c6b-43c1-a49b-760abf97a113.jpg",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "20260920-ai-weekly-news",
     "title": "AI领域一周重要新闻速览（2026.09.13-09.20）",
     "tags": [
