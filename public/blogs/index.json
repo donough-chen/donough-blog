@@ -1,5 +1,21 @@
 [
   {
+    "slug": "20261116-ai-weekly-news",
+    "title": "AI领域一周重要新闻速览（2026.11.09-11.16）",
+    "tags": [
+      "AI",
+      "新闻",
+      "周报",
+      "大模型",
+      "智能体"
+    ],
+    "date": "2026-11-16T10:37",
+    "summary": "汇总本周AI领域20条重要新闻，涵盖黄仁勋卸任英伟达CEO引发的全球AI产业链巨震，Anthropic发布Claude Fable 5.2/Mythos 5.2、Google Gemini 4 Carbon全面开放、百度ERNIE 5.5 Flash Preview、阿里Qwen4-Max、Meta Muse Ember等大模型密集发布，Google第八代TPU、Gemini智能眼镜等芯片与硬件动态，OpenAI Control Room、AlphaProof Code、四机构起诉五大AI公司等安全动向，Claude工作台、Mirendil融资10亿美元等智能体落地，以及Anthropic 1.4万亿美元IPO、Cognition融资、网信办统一备案、欧盟AI法案等监管与资本动态",
+    "cover": "https://cdn.magicalapk.com/square/10e163c4-2c6b-43c1-a49b-760abf97a113.jpg",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "20261109-ai-weekly-news",
     "title": "AI领域一周重要新闻速览（2026.11.02-11.09）",
     "tags": [
